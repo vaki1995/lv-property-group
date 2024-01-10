@@ -266,7 +266,7 @@ header .hotline-area button{
     position: relative;
     margin: auto;
     overflow: hidden;
-    width: 250px;
+    height: 250px;
     border-radius: 8px 8px 0px 0px;
 }
 .image-box img {
