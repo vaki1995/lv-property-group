@@ -546,3 +546,46 @@ a.name-footer:hover{
 .menu-footer a.active{
     color: var(--primary);
 }
+#modalFormResult .modal-content{
+    width: 400px;
+}
+#modalFormResult .title-text-modal{
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 28px;
+    color: var(--text-dark);
+    margin-top: 20px;
+}
+#modalFormResult .descripiton-text-modal{
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 20px;
+    color: #667085;
+}
+#modalFormResult .modal-footer{
+    border-top: none;
+    justify-content: space-between !important;
+    padding-top: 0px;
+}
+#modalFormResult .modal-footer button{
+    width: 170px;
+    height: 44px;
+    border-radius: 8px;
+    box-shadow: 0px 1px 2px 0px rgba(16, 24, 40, 0.05);
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 24px;
+}
+#modalFormResult .modal-footer .btn-secondary{
+    border: 1px solid #D0D5DD;
+    background: var(--White);
+    color: #344054;
+}
+#modalFormResult .modal-footer .btn-primary{
+    border: 1px solid var(--primary);
+    background: var(--primary);
+    color: #fff;
+}
